@@ -2,7 +2,7 @@
 寫得很鳥 不過能用的啦
 可以依照自己的要求更改日期
 ## 使用教學
-1. 確保你有安裝Discord.py
+1. 安裝reqirements.txt
 2. 把Token跟Channel_id改成你自己的
 3. 找個地方掛程式
 4. 就能用
