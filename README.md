@@ -7,4 +7,7 @@
 3. 找個地方掛程式
 4. 就能用
 
+![aw](https://github.com/MrPingot/Discord-countdown-day-bot/assets/97339781/0697b9b2-4665-41db-b5fc-2f42224e33ca)
 ![image](https://github.com/MrPingot/Discord-/assets/97339781/b3ba1e94-9bcd-44d6-b4df-de999e30ab21)
+
+
